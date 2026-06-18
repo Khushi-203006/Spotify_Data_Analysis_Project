@@ -82,7 +82,7 @@ try:
         "Success",
 
         #popup message
-        f" Your CSV file is ready!\n Kindly download: \n{csv_file}"
+        f" Your CSV file is ready!\n Kindly check \n{csv_file}"
     )
 
 #if any error occurs
